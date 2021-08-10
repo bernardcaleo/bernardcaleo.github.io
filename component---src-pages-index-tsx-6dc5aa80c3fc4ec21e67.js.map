@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.tsx"],"names":["Home"],"mappings":"4FAAA,uBAEeA,YAAf","file":"component---src-pages-index-tsx-6dc5aa80c3fc4ec21e67.js","sourcesContent":["import Home from \"@src/templates/home\";\n\nexport default Home;\n"],"sourceRoot":""}
